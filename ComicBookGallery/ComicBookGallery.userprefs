@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Views/ComicBooks/Detail.cshtml">
     <Files>
       <File FileName="Controllers/ComicBooksController.cs" Line="7" Column="23" />
-      <File FileName="Views/ComicBooks/Detail.cshtml" Line="13" Column="1" />
+      <File FileName="Views/ComicBooks/Detail.cshtml" Line="7" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
