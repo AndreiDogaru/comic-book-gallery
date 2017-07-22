@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicBookGallery", "ComicBookGallery.csproj", "{027F15B7-E041-4D21-AF42-70B1EF59F5F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicBookGallery", "ComicBookGallery.csproj", "{22BB4A33-E552-41FB-8385-0FC6505BBC31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{027F15B7-E041-4D21-AF42-70B1EF59F5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{027F15B7-E041-4D21-AF42-70B1EF59F5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{027F15B7-E041-4D21-AF42-70B1EF59F5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{027F15B7-E041-4D21-AF42-70B1EF59F5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22BB4A33-E552-41FB-8385-0FC6505BBC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BB4A33-E552-41FB-8385-0FC6505BBC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BB4A33-E552-41FB-8385-0FC6505BBC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BB4A33-E552-41FB-8385-0FC6505BBC31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
