@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{22BB4A33-E552-41FB-8385-0FC6505BBC31}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Views/ComicBooks/Detail.cshtml">
     <Files>
-      <File FileName="Models/ComicBook.cs" Line="26" Column="27" />
-      <File FileName="Controllers/ComicBooksController.cs" Line="9" Column="2" />
-      <File FileName="Views/ComicBooks/Detail.cshtml" Line="14" Column="2" />
+      <File FileName="Controllers/ComicBooksController.cs" Line="16" Column="35" />
+      <File FileName="Views/ComicBooks/Detail.cshtml" Line="23" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ComicBookGallery" expanded="True">
             <Node name="ComicBookGallery" expanded="True">
-              <Node name="Content" expanded="True" />
               <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Images" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="ComicBooks" expanded="True">
