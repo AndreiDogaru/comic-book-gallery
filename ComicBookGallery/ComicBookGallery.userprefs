@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{22BB4A33-E552-41FB-8385-0FC6505BBC31}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ComicBooksController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/ComicBooks/Detail.cshtml">
     <Files>
-      <File FileName="Controllers/ComicBooksController.cs" Line="14" Column="14" />
+      <File FileName="Controllers/ComicBooksController.cs" Line="7" Column="23" />
+      <File FileName="Views/ComicBooks/Detail.cshtml" Line="13" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
