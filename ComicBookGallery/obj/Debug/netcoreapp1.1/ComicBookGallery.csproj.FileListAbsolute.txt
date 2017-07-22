@@ -1,0 +1,10 @@
+/Users/doggy/Developing/Treehouse/comic-book-gallery/ComicBookGallery/bin/Debug/netcoreapp1.1/ComicBookGallery.deps.json
+/Users/doggy/Developing/Treehouse/comic-book-gallery/ComicBookGallery/bin/Debug/netcoreapp1.1/ComicBookGallery.runtimeconfig.json
+/Users/doggy/Developing/Treehouse/comic-book-gallery/ComicBookGallery/bin/Debug/netcoreapp1.1/ComicBookGallery.runtimeconfig.dev.json
+/Users/doggy/Developing/Treehouse/comic-book-gallery/ComicBookGallery/bin/Debug/netcoreapp1.1/ComicBookGallery.dll
+/Users/doggy/Developing/Treehouse/comic-book-gallery/ComicBookGallery/bin/Debug/netcoreapp1.1/ComicBookGallery.pdb
+/Users/doggy/Developing/Treehouse/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp1.1/ComicBookGallery.csprojResolveAssemblyReference.cache
+/Users/doggy/Developing/Treehouse/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp1.1/ComicBookGallery.csproj.CoreCompileInputs.cache
+/Users/doggy/Developing/Treehouse/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp1.1/ComicBookGallery.AssemblyInfo.cs
+/Users/doggy/Developing/Treehouse/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp1.1/ComicBookGallery.dll
+/Users/doggy/Developing/Treehouse/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp1.1/ComicBookGallery.pdb
