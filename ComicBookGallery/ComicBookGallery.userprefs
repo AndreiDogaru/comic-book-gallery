@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{22BB4A33-E552-41FB-8385-0FC6505BBC31}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/ComicBooks/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/ComicBooks/Detail.cshtml">
     <Files>
-      <File FileName="Views/ComicBooks/Index.cshtml" Line="12" Column="37" />
+      <File FileName="Views/ComicBooks/Index.cshtml" Line="11" Column="34" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="32" Column="31" />
+      <File FileName="Views/ComicBooks/Detail.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
