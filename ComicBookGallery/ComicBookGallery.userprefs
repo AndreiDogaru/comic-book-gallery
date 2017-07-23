@@ -3,26 +3,8 @@
     <Files>
       <File FileName="Data/ComicBookRepository.cs" Line="62" Column="23" />
       <File FileName="Controllers/ComicBooksController.cs" Line="22" Column="22" />
-      <File FileName="Views/ComicBooks/Index.cshtml" Line="13" Column="31" />
+      <File FileName="Views/ComicBooks/Index.cshtml" Line="2" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ComicBookGallery" expanded="True">
-            <Node name="ComicBookGallery" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="ComicBooks" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.ComicBookGallery PreferredExecutionTarget="MonoDevelop.Default" />
